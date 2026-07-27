@@ -1,0 +1,6 @@
+{
+  "name": "Brand Builder App",
+  "description": "Imagine products across billboards, newspapers, social posts, and print mediums with consistent AI product rendering, batch generation, high-res ZIP export, and cloud synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
